@@ -15,7 +15,7 @@ Python 3.x installed on your system.
 
 ## Installation
 Clone the repository or download the project files.
-[To-Do-list.py](https://github.com/aryanh81/Task1-Codsoft/blob/main/To-Do-list.py)
+https://github.com/aryanh81/Task1-Codsoft/blob/main/To-Do-list.py
 Navigate to the project directory.
 
 ## Usage
