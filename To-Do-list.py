@@ -1,4 +1,3 @@
-
 def menu():
     print("Menu: ")
     print("1. Add Task")
