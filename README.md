@@ -1,5 +1,8 @@
 # Task1-Codsoft
-Codsoft Python programming internship task.
+A To-Do List application is a useful project that helps users manage
+and organize their tasks efficiently. This project aims to create a
+command-line or GUI-based application using Python, allowing
+users to create, update, and track their to-do lists
 
 # To-Do List Application
 This Python project aims to create a simple To-Do List application that allows users to manage and organize their tasks efficiently. The application provides a command-line interface (CLI) for user interaction.
